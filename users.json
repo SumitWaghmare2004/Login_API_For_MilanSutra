@@ -1,0 +1,57 @@
+[
+    {
+        "full_name": "Aarav Sharma",
+        "username": "aarav123",
+        "password": "pass@123"
+    },
+    {
+        "full_name": "Priya Verma",
+        "username": "priya_v",
+        "password": "mypassword"
+    },
+    {
+        "full_name": "Rohan Gupta",
+        "username": "rohan_g",
+        "password": "secure123"
+    },
+    {
+        "full_name": "Ananya Singh",
+        "username": "ananya_s",
+        "password": "ananya@321"
+    },
+    {
+        "full_name": "Vikram Patel",
+        "username": "vikram_p",
+        "password": "vikram123"
+    },
+    {
+        "full_name": "Neha Kapoor",
+        "username": "neha_k",
+        "password": "nehaPass"
+    },
+    {
+        "full_name": "Arjun Mehta",
+        "username": "arjun_m",
+        "password": "arjun@789"
+    },
+    {
+        "full_name": "Ishita Desai",
+        "username": "ishita_d",
+        "password": "desai456"
+    },
+    {
+        "full_name": "Karan Malhotra",
+        "username": "karan_m",
+        "password": "karan@pass"
+    },
+    {
+        "full_name": "Simran Kaur",
+        "username": "simran_k",
+        "password": "simran@123"
+    },
+    {
+        "full_name": "Ravi Kumar",
+        "username": "ravi123",
+        "password": "pass123"
+    }
+]
